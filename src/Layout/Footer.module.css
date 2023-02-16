@@ -1,0 +1,27 @@
+.Wrap {
+  border-top: 1px solid #f3f3f3;
+  display: flex;
+  justify-content: center;
+}
+
+.Inner {
+  width: 1000px;
+  height: 110px;
+  margin: 48px 0;
+}
+.Links > a {
+  font-size: 13px;
+  font-weight: 500;
+  color: #333;
+  text-decoration: none;
+  margin-right: 30px;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  width: 960px;
+  font-size: 12px;
+  color: #a8a8a8;
+  margin-top: 14px;
+  align-items: center;
+}

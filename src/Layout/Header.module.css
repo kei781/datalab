@@ -1,0 +1,14 @@
+.Wrap {
+  padding: 0 0 0 25px;
+}
+
+.Inner {
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  border-left: 1px solid gray;
+  padding: 0 20px;
+}
