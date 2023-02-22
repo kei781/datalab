@@ -9,9 +9,20 @@ const Header = () => {
           alt="로고 이미지"
         />
         <ul>
-          <li>로그인</li>
+          <li>
+            <img className={style.LogIcon} />
+          </li>
+          <li>
+            <a href="https://datalab.labangba.com/user/sign_in?redirect=%2Frecruit">
+              로그인
+            </a>
+          </li>
           <li>·</li>
-          <li>회원가입</li>
+          <li>
+            <a href="https://datalab.labangba.com/user/sign_up?redirect=%2Frecruit">
+              회원가입
+            </a>
+          </li>
         </ul>
       </div>
     </div>

@@ -16,3 +16,8 @@ a {
   color: inherit;
   text-decoration: none;
 }
+img {
+  display: inline-block;
+  content: "";
+  border: none;
+}

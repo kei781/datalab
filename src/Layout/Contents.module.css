@@ -2,6 +2,7 @@
 .Wrap {
   display: flex;
   justify-content: center;
+  margin-top: 60px;
 }
 
 /* 컨텐츠 전체를 감싸고있는 이너클래스입니다. */
