@@ -1,6 +1,10 @@
 # datalab_front
 <h1> 해당 프로젝트는 라방바닷컴 프론트엔드 프로젝트입니다.</h1>
 
+<h1> 다음의링크에서 백엔드 프로젝트 부터 실행해주세요!!
+
+https://github.com/kei781/datalab_backend</h1>
+
 <h2> 실행은 다음의 순서로 명령어를 입력해주세요.
 
 (vsc, git bash기준, node.js와 git설치가 필수입니다.) </h2>
